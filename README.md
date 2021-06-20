@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
 <h3 align="center">A total newbie, learner, wannabe developer, but mostly love to have my mind blown by what coding can achieve 🤯 </h3>
 
-- 🔭 I’m currently working on [a recipe app 👩🏻‍🍳](https://github.com/aweliego/recipe-app)
+🔭  I’m currently working on [a recipe app 👩🏻‍🍳](https://github.com/aweliego/recipe-app)
 
-- 🌱 I’m currently learning **all things Javascript**
+🌱  I’m currently learning **all things Javascript**
 
-- 🤝 I’m looking for help with [my recipe app 🥘](https://github.com/aweliego/recipe-app) (could use some guidance with baisc features really)
+🤝  I’m looking for help with [my recipe app 🥘](https://github.com/aweliego/recipe-app) (could use some guidance with baisc features really)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-aweliego.netlify.app/](https://portfolio-aweliego.netlify.app/)
+👨‍💻  All of my projects are available at [https://portfolio-aweliego.netlify.app/](https://portfolio-aweliego.netlify.app/)
 
-- 📫 How to reach me **amelie.gorry.am@gmail.com**
+📫  How to reach me **amelie.gorry.am@gmail.com**
 
-- ⚡ Fun fact **Coding is a career change for me 🚀**
+⚡  Fun fact **Coding is a career change for me 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
