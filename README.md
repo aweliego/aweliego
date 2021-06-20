@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **all things Javascript**
 
-- 🤝 I’m looking for help with [my recipe app 🥘](https://github.com/aweliego/recipe-app)(could use some guidance with baisc features really)
+- 🤝 I’m looking for help with [my recipe app 🥘](https://github.com/aweliego/recipe-app) (could use some guidance with baisc features really)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-aweliego.netlify.app/](https://portfolio-aweliego.netlify.app/)
 
