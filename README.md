@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
-<h3 align="center">A total newbie, learner, wannabe developer, but mostly love to have my mind blown by what coding can achieve 🤯/h3>
+<h3 align="center">A total newbie, learner, wannabe developer, but mostly love to have my mind blown by what coding can achieve 🤯 </h3>
 
 - 🔭 I’m currently working on [a recipe app 👩🏻‍🍳](https://github.com/aweliego/recipe-app)
 
