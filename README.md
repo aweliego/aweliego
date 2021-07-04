@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
 <h3 align="center">A total newbie, learner, wannabe developer, but mostly love to have my mind blown by what coding can achieve 🤯 </h3>
 
-🔭  I’m currently working on [a recipe app 👩🏻‍🍳](https://github.com/aweliego/recipe-app)
-
+🔭  I’m currently working on [a recipe app 👩🏻‍🍳](https://github.com/aweliego/recipe-app) and [a countdown timer](https://github.com/aweliego/countdown-timer) ⏰
 🌱  I’m currently learning **all things Javascript**
 
 🤝  I’m looking for help with [my recipe app 🥘](https://github.com/aweliego/recipe-app) (could use some guidance with baisc features really)
