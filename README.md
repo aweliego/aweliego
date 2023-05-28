@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
-<h3 align="center">Thrilled to learn how to make computers do things</h3>
+<h3 align="center">That language-lover & math-hater who never thought she'd write a line of code in a zillion years</h3>
 
-- 🔭 I’m currently working on [a workout generator](https://github.com/aweliego/workout-generator) 🏋🏻‍♂️
+- 🔭 Tackling [Frontend Mentor](https://www.frontendmentor.io/home) challenges is how I like to spend my coding time these days
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently focusing on practicing **React** in combination with **TypeScript**, while experimenting with UI frameworks & libraries (Tailwind, Material UI...)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-aweliego.netlify.app/](https://portfolio-aweliego.netlify.app/)
-
-- ⚡ Fun fact **Coding is a career change for me 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
